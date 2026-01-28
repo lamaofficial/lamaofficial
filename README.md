@@ -52,6 +52,11 @@ G --> G3[Tableau / 数据分析界面]
 | | JUCE | ⭐☆☆☆☆ | 音频应用框架初探 |
 | | Tableau | ⭐☆☆☆☆ | 数据可视化与报表初步 |
 
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=lamaofficial)](https://github.com/lamaofficial/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamaofficial)](https://github.com/lamaofficial/github-readme-stats)
+
 📫 联系与交流
 
 • 🙋♂️ 欢迎技术交流、合作或指教！  
