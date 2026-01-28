@@ -55,7 +55,7 @@ G --> G3[Tableau / 数据分析界面]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamaofficial&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamaofficial&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamaofficial&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 📫 联系与交流
 
