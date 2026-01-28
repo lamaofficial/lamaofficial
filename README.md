@@ -53,9 +53,9 @@ G --> G3[Tableau / 数据分析界面]
 | | Tableau | ⭐☆☆☆☆ | 数据可视化与报表初步 |
 
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=lamaofficial)](https://github.com/lamaofficial/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamaofficial&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamaofficial)](https://github.com/lamaofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamaofficial&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 📫 联系与交流
 
