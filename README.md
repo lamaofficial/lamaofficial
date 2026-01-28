@@ -1,43 +1,74 @@
-## Hi there 👋
 
-<!--
-**rvirtualea9/rvirtualea9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑💻 关于我
 
-Here are some ideas to get you started:
+你好！我是拉玛，一名热爱技术探索的开发者，目前正在系统性地构建自己的技术栈，并涉足多个领域，包括底层开发、图形学、嵌入式、机器学习与全栈应用等。乐于动手实践，享受从原理到实现的过程。
 
-<<<<<<< HEAD
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
-## 🌱 当前学习轨迹
-```mermaid
-graph LR
-A[编程基础] --> B[C/C++]
-A --> C[Python]
-A --> D[Web开发]
-D --> E[HTML]
-D --> F[CSS]
-D --> G[JavaScript]
-A --> H[游戏开发]
-H --> I[Unity]
-```
+🌱 当前学习中：
 
-## 🛠️ 技术栈
-| 类别       | 技术                  | 掌握程度 |
-|------------|-----------------------|----------|
-| 编程语言   | C, C++, Python        | ⭐☆☆☆☆    |
-| 前端       | HTML, CSS, JavaScript | ⭐☆☆☆☆    |
-| 游戏开发   | Unity                 | ⭐⭐☆☆☆    |
+graph TD
+A[编程基础与核心语言] --> B[C/C++ ⭐☆☆☆☆]
+A --> C[Python ⭐☆☆☆☆]
+    
+B --> D[系统/图形/嵌入式方向]
+C --> E[数据/机器学习方向]
+C --> F[全栈与工具方向]
+    
+D --> D1[OpenGL / ImGui / ImPlot]
+D --> D2[EasyX / Qt]
+D --> D3[STM32 / ESP32 / Arduino]
+D --> D4[CMake / JUCE]
+    
+E --> E1[机器学习 / PyTorch]
+E --> E2[NumPy / Pandas]
+E --> E3[Matplotlib / 数据可视化]
+    
+F --> F1[前端: React / Electron]
+F --> F2[后端与数据库: MySQL / SQLite]
+F --> F3[个人网站部署]
+F --> F4[网络工具: Wireshark]
+    
+A --> G[通用工具与技能]
+G --> G1[线性代数 / 离散数学 / 概率论与数理统计 数学基础]
+G --> G2[Vim 高效操作]
+G --> G3[Tableau / 数据分析界面]
 
 
-## 📫 联系我
-- 🙋‍♂️ 欢迎指教与交流！
-- ✉️ 邮箱: verstop9000@gmail.com
-- 💬 座右铭: "学如拉玛，不拉则玛"
+🛠️ 技术栈概览
+
+领域 技术 / 工具 熟悉程度 说明
+
+编程语言 C / C++ ⭐☆☆☆☆ 基本会用，能看懂
+
+Python ⭐☆☆☆☆ 用于机器学习、数据分析、脚本工具
+
+Pytorch / NumPy / Pandas / Matplotlib ⭐☆☆☆☆ 数据处理、分析与可视化
+
+图形与界面 OpenGL / ImGui / ImPlot ⭐☆☆☆☆ 图形渲染、即时模式 GUI
+
+EasyX / Qt ⭐☆☆☆☆ 图形库、跨平台桌面应用开发
+
+嵌入式/IoT STM32 / ESP32 / Arduino ⭐☆☆☆☆ 微控制器开发、物联网原型
+
+全栈开发 React / Electron ⭐☆☆☆☆ 现代前端、跨平台桌面应用
+
+MySQL / SQLite ⭐☆☆☆☆ 数据库设计与基础操作
+
+个人网站部署 ⭐⭐☆☆☆ 拥有线上可访问的个人项目站点
+
+开发工具 CMake / Vim ⭐☆☆☆☆ 构建系统、高效文本编辑
+
+Wireshark ⭐☆☆☆☆ 网络协议分析基础
+
+JUCE ⭐☆☆☆☆ 音频应用框架初探
+
+Tableau ⭐☆☆☆☆ 数据可视化与报表初步
+
+📫 联系与交流
+
+• 🙋♂️ 欢迎技术交流、合作或指教！  
+
+• ✉️ 邮箱：mailto:jiuyier7@163.com  
+
+• 💬 座右铭：“学如登山，拾级而上”  
+
+本 README 持续更新中，记录成长路上的每一个脚印 🚀
